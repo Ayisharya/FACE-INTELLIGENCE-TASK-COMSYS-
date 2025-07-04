@@ -35,3 +35,4 @@ The following structure will be created:
 6. Model and results will be saved as:
    - `siamese_facecon_resnet18.pt`
    - `results_task_b.json`
+   - 'results_task_b_train.json'
