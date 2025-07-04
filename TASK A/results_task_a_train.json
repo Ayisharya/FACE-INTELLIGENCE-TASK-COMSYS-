@@ -1,0 +1,6 @@
+{
+    "train_accuracy": 0.9283,
+    "train_precision": 0.9476,
+    "train_recall": 0.9686,
+    "train_f1_score": 0.958
+}
